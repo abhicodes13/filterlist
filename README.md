@@ -1,1 +1,1 @@
-# filterlist brushing up javascript, html,css skills
+#Revising JS skills along with HTML and CSS
