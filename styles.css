@@ -27,7 +27,7 @@ body{
 #myUL li a {
   border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
-  background-color: lightblue;
+  background-color: white;
   padding: 12px;
   text-decoration: none;
   font-size: 18px;
