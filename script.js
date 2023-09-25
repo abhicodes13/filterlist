@@ -15,4 +15,4 @@ function myFunction() {
     }
 }
 
-console.log("Valid");
+alert("Welcome to a simple phonebook where you can filter through the list")
