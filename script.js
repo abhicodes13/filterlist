@@ -15,4 +15,6 @@ function myFunction() {
     }
 }
 
-alert("Welcome to a simple phonebook where you can filter through the list")
+alert("Welcome to a simple phonebook where you can filter through the list");
+
+
